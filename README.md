@@ -1,2 +1,2 @@
-# todo
+# todos
 to do function
